@@ -10,7 +10,15 @@ class Program
         var ccstnam = Console.ReadLine(); // customer name
         var dcrrnam = DateTime.Now; // current date
         Console.WriteLine("Order nr ");
-        var ccstordnmb = int.Parse(Console.ReadLine().ToString()); // receive number caracter, after cast to string
+        var ccstordnmb = 0;
+        try
+            {
+                ccstordnmb = int.Parse(Console.ReadLine().ToString()); // receive number caracter, after cast to string
+            }
+        catch (System.Exception ex)
+            {
+                throw new ArgumentNullException("Valid integer number", ex);
+            }
         Console.WriteLine("Product code and description ");
         var ccstordprd = Console.ReadLine();
         Console.Write($"\n - - - - - - - - - - - - - -");
