@@ -1,0 +1,15 @@
+C:\zTntStarterBootCamp\task\bakery\bakery\bin\Debug\net6.0\bakery.exe
+C:\zTntStarterBootCamp\task\bakery\bakery\bin\Debug\net6.0\bakery.deps.json
+C:\zTntStarterBootCamp\task\bakery\bakery\bin\Debug\net6.0\bakery.runtimeconfig.json
+C:\zTntStarterBootCamp\task\bakery\bakery\bin\Debug\net6.0\bakery.dll
+C:\zTntStarterBootCamp\task\bakery\bakery\bin\Debug\net6.0\ref\bakery.dll
+C:\zTntStarterBootCamp\task\bakery\bakery\bin\Debug\net6.0\bakery.pdb
+C:\zTntStarterBootCamp\task\bakery\bakery\obj\Debug\net6.0\bakery.csproj.AssemblyReference.cache
+C:\zTntStarterBootCamp\task\bakery\bakery\obj\Debug\net6.0\bakery.GeneratedMSBuildEditorConfig.editorconfig
+C:\zTntStarterBootCamp\task\bakery\bakery\obj\Debug\net6.0\bakery.AssemblyInfoInputs.cache
+C:\zTntStarterBootCamp\task\bakery\bakery\obj\Debug\net6.0\bakery.AssemblyInfo.cs
+C:\zTntStarterBootCamp\task\bakery\bakery\obj\Debug\net6.0\bakery.csproj.CoreCompileInputs.cache
+C:\zTntStarterBootCamp\task\bakery\bakery\obj\Debug\net6.0\bakery.dll
+C:\zTntStarterBootCamp\task\bakery\bakery\obj\Debug\net6.0\ref\bakery.dll
+C:\zTntStarterBootCamp\task\bakery\bakery\obj\Debug\net6.0\bakery.pdb
+C:\zTntStarterBootCamp\task\bakery\bakery\obj\Debug\net6.0\bakery.genruntimeconfig.cache
